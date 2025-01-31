@@ -16,6 +16,7 @@ To run the notebooks, I recommend using the [Anaconda distribution](https://www.
 ## List of notebooks
 
 1. [Identification of a 1-DOF Mass-Spring-Damper System with a Discrete-time ARX Model](https://nbviewer.org/github/fmamitrotta/learn-aeroelastic-sid/blob/main/notebooks/01_Identification_of_a_1-DOF_Mass-Spring-Damper_System_with_a_Discrete-time_ARX_Model.ipynb)
+2. [Identification of a 1-DOF Mass-Spring-Damper System with the LSCE Algorithm](https://nbviewer.org/github/fmamitrotta/learn-aeroelastic-sid/blob/main/notebooks/02_Identification_of_a_1-DOF_Mass-Spring-Damper_System_with_the_LSCE_Algorithm.ipynb)
 
 ## Copyright and License
 
